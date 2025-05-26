@@ -9,6 +9,11 @@ Diese Repository enthält eine **LaTeX-Vorlage**, die speziell für Abschlussarb
 * **`Vorlage_Latex_Git_allgemein.tex`**: Dies ist die Hauptdatei der LaTeX-Vorlage. Hier definierst du die Struktur deines Dokuments, fügst Inhalte hinzu und referenzierst deine Literatur.
 * **`Vorlage_Bibtex_Git.bib`**: Eine BibTeX-Datei für die Verwaltung deiner Literaturverweise. Du kannst hier alle deine Quellen eintragen und sie dann einfach in deiner `Vorlage_Latex_Git_allgemein.tex`-Datei zitieren.
 
+* **### Beispiel-PDF ansehen
+
+Möchtest du sehen, wie ein kompiliertes Dokument mit dieser Vorlage aussieht?
+* **[Klicke hier, um das Beispiel-PDF anzuzeigen](https://github.com/Narrenpfarrer/Th-Brandenburg_Latex_Vorlage/blob/main/Vorlage_Latex_Git_allgemein.pdf)**
+
 ## Funktionen der Vorlage
 
 * **THB-spezifische Anpassungen**: Die Vorlage berücksichtigt gängige Formatierungsrichtlinien der THB, wie z.B. Seitenränder, Kopf- und Fußzeilen (falls relevant) und die Titelseite.
