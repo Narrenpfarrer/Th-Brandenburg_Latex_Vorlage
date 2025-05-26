@@ -2,6 +2,9 @@
 
 ---
 
+Möchtest du sehen, wie ein kompiliertes Dokument mit dieser Vorlage aussieht?
+* **[Klicke hier, um das Beispiel-PDF anzuzeigen](https://github.com/Narrenpfarrer/Th-Brandenburg_Latex_Vorlage/blob/main/Vorlage_Latex_Git_allgemein.pdf)**
+
 Diese Repository enthält eine **LaTeX-Vorlage**, die speziell für Abschlussarbeiten, Projekte oder andere wissenschaftliche Dokumente an der Technischen Hochschule Brandenburg (THB) angepasst wurde. Mein Ziel war es, eine benutzerfreundliche Vorlage zu schaffen, die den gängigen Formatierungsanforderungen der THB entspricht und dir den Start deines Schreibprojekts erleichtert.
 
 ## Was ist enthalten?
@@ -11,8 +14,7 @@ Diese Repository enthält eine **LaTeX-Vorlage**, die speziell für Abschlussarb
 
 * **### Beispiel-PDF ansehen
 
-Möchtest du sehen, wie ein kompiliertes Dokument mit dieser Vorlage aussieht?
-* **[Klicke hier, um das Beispiel-PDF anzuzeigen](https://github.com/Narrenpfarrer/Th-Brandenburg_Latex_Vorlage/blob/main/Vorlage_Latex_Git_allgemein.pdf)**
+
 
 ## Funktionen der Vorlage
 
